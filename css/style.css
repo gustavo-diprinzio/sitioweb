@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    margin-top: 100PX;
+}
+img{
+    width: 350px;
+    height: 350px;
+    margin-left: 300px;
+}
+h1 {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: red;
+    color: red;
+    margin-left: 130px;
+
+  }
